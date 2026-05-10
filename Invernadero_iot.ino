@@ -65,7 +65,7 @@ unsigned long tiempoInicio = 0;
 // =========================
 // Intervalos
 // =========================
-const unsigned long intervaloLectura = 200;
+const unsigned long intervaloLectura = 2000;
 const unsigned long intervaloLCD = 500;
 const unsigned long debounceBoton = 200;
 const unsigned long tiempoSplash = 2000;
