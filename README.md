@@ -1,17 +1,20 @@
 # Prototipo sostenible de control de la cubierta de un invernadero utilizando sensores de luminosidad y visualización LCD 
 
-El sistema permite detectar el nivel de luminosidad externa mediante un sensor LDR y controlar la posición del techo usando un servomotor. Además, cuenta con modo automático y modo manual, mostrando el estado del sistema en una pantalla LCD I2C.
+Este proyecto consiste en el desarrollo de un prototipo de invernadero inteligente capaz de reaccionar automáticamente a las condiciones de iluminación del entorno. El sistema utiliza un sensor LDR para detectar la intensidad lumínica y, mediante un ESP32, controlar la apertura o cierre del techo utilizando un servomotor.
 
-## Materiales 
-### ESP32
-### LDR
-### Servomotor
-### LCD
-### Botón
-### Switch
-### Protoboard 
-### Jumpers y cables 
+Además, el sistema incorpora dos modos determindados por un Switch, en modo manual que permite al usuario controlar el techo mediante un botón, y el modo automatico controlado por una maquina de estados, así como una pantalla LCD que muestra el estado actual del sistema.
 
+## Objetivo
+Desarrollar un prototipo sostenible que permita controlar de manera eficiente la entrada de luz en una maqueta de invernadero, para optimizar el crecimiento de los cultivos.
+## Componentes 
+ESP32
+LDR
+Servomotor
+LCD
+Botón
+Switch
+Protoboard 
+Jumpers y cables 
 ## Simulación del sistema
 ![simulación](https://github.com/user-attachments/assets/e7c4e2e8-6c9f-4ad5-b31b-836a3c9e656c)
 ## Diseño esquemático
