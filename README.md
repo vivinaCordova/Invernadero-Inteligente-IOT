@@ -16,7 +16,7 @@ Desarrollar un prototipo sostenible que permita controlar de manera eficiente la
 * Protoboard 
 * Jumpers y cables
 ### Codigo 
-![Codigo](Invernadero_iot.ino)
+Invernadero_iot.ino
 ### Librerias necesarias
 * Wire
 * LiquidCrystal_12C
@@ -26,4 +26,4 @@ Desarrollar un prototipo sostenible que permita controlar de manera eficiente la
 ## Diseño esquemático
 ![diseño_esquematico](https://github.com/user-attachments/assets/beaefa8d-55eb-432a-b132-e8d248d3fc75)
 ## Prototipo 
-![prototipo](https://github.com/user-attachments/assets/7e55c9f1-06e7-4b92-aa9e-8af44d039cce)
+![prototipo](https://github.com/user-attachments/assets/0bb237ba-d753-48b5-95c8-c9bbafc7f869)
